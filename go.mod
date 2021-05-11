@@ -1,6 +1,6 @@
-module git.letabc.com/go/radixclient
+module github.com/thisissc/radixclient
 
-go 1.14
+go 1.16
 
 require (
 	github.com/mediocregopher/radix/v3 v3.5.2
